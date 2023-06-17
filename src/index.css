@@ -1,0 +1,12 @@
+.toxic{
+    color: red;
+}
+.non-toxic{
+    color: green;
+}
+
+.navLink{
+    color: black;
+    text-decoration: none;
+    margin: 10px;
+}
